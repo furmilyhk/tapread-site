@@ -1,4 +1,4 @@
-# 點讀書 TapRead
+# Pagetalk 點讀書
 
 Photograph a page, tap a word, hear it and see what it means. Reads any
 language. Everything happens on your own iPhone.
@@ -7,5 +7,5 @@ language. Everything happens on your own iPhone.
 - [Terms of Use](terms.md)
 - [Support](support.md)
 
-**App:** 點讀書 TapRead (`com.littlekidsschool.tapread`)
+**App:** Pagetalk 點讀書 (`com.littlekidsschool.tapread`)
 **Developer:** INFINITYPLAY — Infinity Playhouse Limited

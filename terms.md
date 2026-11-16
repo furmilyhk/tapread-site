@@ -1,22 +1,22 @@
 # Terms of Use
 
-**點讀書 TapRead** · last updated 16 November 2026
+**Pagetalk 點讀書** · last updated 16 November 2026
 
 **Developer:** INFINITYPLAY (Infinity Playhouse Limited)
 
-By using TapRead you agree to these terms. They sit alongside Apple's
+By using Pagetalk you agree to these terms. They sit alongside Apple's
 [Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/),
 which applies to this app.
 
 ## The licence
 
-You get a personal, non-transferable licence to use TapRead on Apple devices
+You get a personal, non-transferable licence to use Pagetalk on Apple devices
 you own or control, as allowed by the App Store Terms of Service.
 
 ## Free and paid features
 
-TapRead is free to download. The free version lets you scan one book of your
-own and use the sample books without limit. **TapRead Pro** removes the limit
+Pagetalk is free to download. The free version lets you scan one book of your
+own and use the sample books without limit. **Pagetalk Pro** removes the limit
 on your own books.
 
 It is sold three ways:
@@ -55,7 +55,7 @@ mistake would matter.
 
 ## Third-party data
 
-TapRead includes these open resources, offline, under their own licences:
+Pagetalk includes these open resources, offline, under their own licences:
 
 - Chinese–English dictionary: CC-CEDICT (CC BY-SA 4.0)
 - English phonetics: CMU Pronouncing Dictionary (© Carnegie Mellon University, BSD licence)
@@ -65,7 +65,7 @@ TapRead includes these open resources, offline, under their own licences:
 
 ## No warranty
 
-TapRead is provided as it is. To the fullest extent the law allows, we are not
+Pagetalk is provided as it is. To the fullest extent the law allows, we are not
 liable for loss that comes from using or being unable to use the app.
 
 ## Changes

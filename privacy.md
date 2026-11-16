@@ -1,17 +1,17 @@
 # Privacy Policy
 
-**點讀書 TapRead** (`com.littlekidsschool.tapread`) · last updated 16 November 2026
+**Pagetalk 點讀書** (`com.littlekidsschool.tapread`) · last updated 16 November 2026
 
-**App:** 點讀書 TapRead · **Developer:** INFINITYPLAY (Infinity Playhouse Limited)
+**App:** Pagetalk 點讀書 · **Developer:** INFINITYPLAY (Infinity Playhouse Limited)
 
 ## The short version
 
-TapRead does not collect your data, because it never receives it. The pages
+Pagetalk does not collect your data, because it never receives it. The pages
 you photograph, the words you save and your review progress are stored on your
 iPhone or iPad only. We have no server, no account system and no way to read
 anything you do in the app.
 
-TapRead makes no network requests of its own: nothing is sent to us or to any
+Pagetalk makes no network requests of its own: nothing is sent to us or to any
 other company. There is no analytics, no advertising and no tracking.
 
 ## What stays on the device
@@ -67,7 +67,7 @@ There are none. No third-party SDKs, no advertising identifiers, no trackers.
 
 ## Children
 
-TapRead is a general reading and language-learning tool. It collects no
+Pagetalk is a general reading and language-learning tool. It collects no
 personal information from anyone, including children.
 
 ## Deleting your data

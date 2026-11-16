@@ -1,6 +1,6 @@
 # Support
 
-**點讀書 TapRead**
+**Pagetalk 點讀書**
 
 Something wrong, or something missing? Open an issue:
 <https://github.com/furmilyhk/tapread-site/issues>
