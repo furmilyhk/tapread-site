@@ -1,6 +1,6 @@
 # Terms of Use
 
-**點讀書 TapRead** · last updated 16 November 2026
+**點讀書 TapRead** (App Store name: LKS 點讀書) · last updated 16 November 2026
 
 **Developer:** INFINITYPLAY (Infinity Playhouse Limited)
 
@@ -19,15 +19,22 @@ TapRead is free to download. The free version lets you scan one book of your
 own and use the sample books without limit. **TapRead Pro** removes the limit
 on your own books.
 
-Pro may be offered as a renewing subscription or as a one-time purchase. The
-exact products, their length and their price are shown in your own currency
-inside the app before you buy.
+It is sold three ways:
+
+| | Length | Price (Hong Kong) |
+|---|---|---|
+| Monthly | 1 month, renewing | HK$28 |
+| Yearly | 1 year, renewing | HK$188 |
+| Lifetime | paid once | HK$388 |
+
+Prices in other countries are set from these by Apple and shown in your own
+currency before you buy.
 
 **Subscriptions renew automatically** unless turned off at least 24 hours
 before the period ends. Your Apple Account is charged for renewal within 24
 hours of the end of the current period. Manage or cancel a subscription in
 iOS Settings ▸ your name ▸ Subscriptions. Deleting the app does not cancel a
-subscription. A one-time purchase does not renew.
+subscription. The lifetime purchase is a one-time payment and does not renew.
 
 Purchases are handled by Apple; refunds are decided by Apple under its own
 policy. **Restore purchases** is in Settings inside the app.
