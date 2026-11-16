@@ -1,6 +1,6 @@
 # Terms of Use
 
-**點讀書 TapRead** (App Store name: LKS 點讀書) · last updated 16 November 2026
+**點讀書 TapRead** · last updated 16 November 2026
 
 **Developer:** INFINITYPLAY (Infinity Playhouse Limited)
 

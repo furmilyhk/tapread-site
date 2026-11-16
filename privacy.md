@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**點讀書 TapRead** (App Store name: LKS 點讀書 · `com.littlekidsschool.tapread`) · last updated 16 November 2026
+**點讀書 TapRead** (`com.littlekidsschool.tapread`) · last updated 16 November 2026
 
 **App:** 點讀書 TapRead · **Developer:** INFINITYPLAY (Infinity Playhouse Limited)
 
