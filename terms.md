@@ -1,6 +1,6 @@
 # Terms of Use
 
-**Pagetalk 點讀書** · last updated 16 November 2026
+**Pagetalk 點讀書** · last updated 17 November 2026
 
 **Developer:** INFINITYPLAY (Infinity Playhouse Limited)
 
@@ -16,7 +16,7 @@ you own or control, as allowed by the App Store Terms of Service.
 ## Free and paid features
 
 Pagetalk is free to download. The free version lets you scan one book of your
-own and use the sample books without limit. **Pagetalk Pro** removes the limit
+own, up to 5 pages, and use the sample books without limit. **Pagetalk Pro** removes the limit
 on your own books.
 
 It is sold three ways:
