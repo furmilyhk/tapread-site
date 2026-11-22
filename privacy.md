@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Pagetalk 點讀書** (`com.littlekidsschool.tapread`) · last updated 16 November 2026
+**Pagetalk 點讀書** (`com.littlekidsschool.tapread`) · last updated 22 November 2026
 
 **App:** Pagetalk 點讀書 · **Developer:** INFINITYPLAY (Infinity Playhouse Limited)
 
@@ -39,14 +39,25 @@ Apple's service, not ours.
   language from Apple; that download is between your device and Apple.
 - **Dictionary and example sentences** are built into the app and work offline.
   The "Detail" button opens the dictionary that comes with iOS.
-- **Shadow reading** (reading a sentence aloud to check it) uses the
-  microphone and Apple's speech recognition. The app asks for permission only
-  when you first use it, and it only ever uses **on-device** recognition. If a
-  language is not supported on the device, the feature stays off rather than
-  sending your voice to Apple. Recordings are not stored and not uploaded.
-- **Camera** is used only when you choose to scan a page. Photos you pick
-  from your library are copied into the app; the app asks for no
-  permission to read your whole library.
+- **Microphone and speech recognition** are used by Shadow reading (reading a
+  sentence aloud to check it), **Listen** (live captions of a speaker) and
+  **Talk** (face-to-face conversation). The app asks for permission only when
+  you first use one of them, and it only ever uses **on-device** recognition
+  (Apple's SpeechAnalyzer / Speech framework). The first time you use a
+  language, iOS may download that language's speech model from Apple; that
+  download is between your device and Apple. If a language cannot be
+  recognised on the device, the feature stays off rather than sending your
+  voice anywhere. Audio is processed as it arrives and is not stored or
+  uploaded; only the text you choose to keep (for example a saved sentence)
+  stays in the app.
+- **Camera** is used when you scan a page and in **Camera translation**,
+  which reads the text in front of the camera on the device and shows the
+  translation over it. Camera frames are processed in memory and discarded;
+  nothing is saved unless you tap "Save as book", and nothing is uploaded.
+  Photos you pick from your library are copied into the app; the app asks for
+  no permission to read your whole library.
+- **Siri, Shortcuts and the Action button** can open Camera, Listen or Talk.
+  They only open the app; no data is passed to them.
 
 ## What we do receive
 
